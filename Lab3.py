@@ -39,4 +39,6 @@ def read_csv(file_path):
     try:
         with open(file_path, 'r') as file:
             reader = csv.reader(file)
-            header = next(
+            header = next()
+    except:
+        print("Error reading CSV file")
