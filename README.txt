@@ -1,6 +1,6 @@
 # Dataset description
 This dataset contains MLB player statistics from the 2022 season. It includes information on various player performances, 
-such as games played, at-bats, hits, home runs, walks, strikeouts, and more.
+such as games played, at-bats, hits, home runs, walks, strikeouts, and more. Which gives alot of flexability on what to predict.
 
 # Features
 - Name: The name of the player.
