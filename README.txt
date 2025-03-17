@@ -1,6 +1,6 @@
 # Dataset description
-This dataset contains MLB player statistics from the 2022 season. It includes information of various player preformances, 
-such as games played, at-bats, hits, home runs, walks, strikouts, and more.
+This dataset contains MLB player statistics from the 2022 season. It includes information on various player performances, 
+such as games played, at-bats, hits, home runs, walks, strikeouts, and more.
 
 # Features
 - Name: The name of the player.
@@ -38,4 +38,4 @@ Clone repository with git clone https://github.com/ReeceAtkins/Lab3.git
 # Contribitors
 - Reece Atkins[https://github.com/ReeceAtkins]
 - Keaton Calvert
-- Natheniel Miller
+- Nathaniel Miller
