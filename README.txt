@@ -35,6 +35,13 @@ as targets to make a prediction.
 # How to run code
 Clone repository with git clone https://github.com/ReeceAtkins/Lab3.git
 
+# Special Work
+
+## Implemented a three-way dataset split feature that divides the data into:
+- 70% Training
+- 15% Validation
+- 15% Testing
+
 # Contribitors
 - Reece Atkins[https://github.com/ReeceAtkins]
 - Keaton Calvert
